@@ -22,4 +22,4 @@ How to use the API.
 
 1. Download `addCommaToNumbers.js`
 2. Include `addCommaToNumbers.js` in your project directory.
-3. `import { addCommaToNumber } from ./fileDir`
+3. Or Copy the source code.
