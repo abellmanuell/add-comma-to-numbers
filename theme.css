@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+html,body{
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+}
+
+form{
+	width: 50vw;
+	max-width: 80%;
+	margin: 0 0;
+	padding: 5rem 1.2rem;
+	display: flex;
+	flex-direction: column;
+}
+
+form > h1{
+	font-size: 2rem;
+}
+
+input{
+	font-family:  'Time New Roman';
+	padding: 1rem;
+	margin: 1rem 0;
+	font-size: 1rem;
+	font-weight: bold;
+	border: none;
+	border-radius: 5px;
+}
+
+input[type="text"]{
+	border: 2px solid #e5e5e5;
+}
+
+input[type="submit"]{
+	outline: none;
+	cursor: pointer;
+}
