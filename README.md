@@ -1,6 +1,6 @@
 # Add Comma To-Numbers
 
-`addCommaToNumber(number)`
+Usage: `addCommaToNumber(number)`
 
 ### Examples:
 
@@ -22,5 +22,4 @@ How to use the API.
 
 1. Download `addCommaToNumbers.js`
 2. Include `addCommaToNumbers.js` in your project directory.
-
-`import { addCommaToNumber } from ./fileDir`
+3. `import { addCommaToNumber } from ./fileDir`
